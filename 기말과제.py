@@ -12,7 +12,7 @@ WIDTH = 800
 HEIGHT = 600
 wn = t.Screen()
 wn.setup(WIDTH, HEIGHT)
-wn.title("@Turtle Avoiding@ _ 2020810048오혜민")
+wn.title("@AVOIDING TURTLE@ _ 2020810048오혜민")
 wn.bgcolor("midnightblue")
 
 #점수판(+ 어떤 거북이가 player고 villain인지 소개 -> 소개는 player가 첫 먹이를 먹으면 사라지게 함)
