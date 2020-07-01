@@ -199,6 +199,6 @@ t.onkeypress(start,"space")
 t.listen()
 
 
-title("Turtle Avoiding", "[How to play: press space]","  ")
+title("AVOIDING TURTLE", "[How to play: press space]","  ")
 
 wn.mainloop()
