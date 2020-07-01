@@ -143,7 +143,7 @@ def play():
 #점수는 random 
     movex = random.randint(-230,230)
     movey = random.randint(-230,230)
-    random_s = [10,40,30,20,50,100]
+    random_s = [10,40,30,20,50,100,-10,-30]
     if t.distance(food) < 12:
         score = score + random.choice(random_s)
         food.penup()
